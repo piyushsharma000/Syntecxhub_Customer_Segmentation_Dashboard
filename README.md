@@ -81,4 +81,4 @@ Visualizations
 
 📷 Dashboard Preview
 
-![image alt]()
+![image alt](https://github.com/piyushsharma000/Syntecxhub_Customer_Segmentation_Dashboard/blob/main/Customer%20Segmentation%20Dashboard.png?raw=true)
